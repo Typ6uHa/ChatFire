@@ -1,0 +1,4 @@
+#Fri Apr 27 02:23:45 MSK 2018
+base.0=C\:\\Users\\Aizat\\Documents\\GitHub\\ChatFire2\\MyChat\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
