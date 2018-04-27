@@ -1,4 +1,4 @@
-package com.fire.tynx.mychat
+package com.fire.tynx.mychat.activity
 
 
 
@@ -6,7 +6,7 @@ import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
 import android.support.v7.widget.LinearLayoutManager
 import android.widget.Toast
-import com.fire.tynx.mychat.R.id.*
+import com.fire.tynx.mychat.R
 import com.fire.tynx.mychat.adapters.MessageAdapter
 import com.fire.tynx.mychat.models.Message
 import com.google.firebase.FirebaseApp
